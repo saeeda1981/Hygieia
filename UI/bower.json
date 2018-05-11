@@ -58,6 +58,7 @@
     "chartist": {
       "main": [
         "./dist/chartist.js"
+        
       ]
     }
   }
